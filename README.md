@@ -5,7 +5,7 @@ Purpuse:
 
    files:
    
-      * main.c:                     Contains the full code of the program
+      * main.c:                     Contains the full code of the program.
       * edwardduarte_tarea02.docx:  Contains the comprobation of the correct answers with some examples.
 
    How to run:
