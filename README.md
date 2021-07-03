@@ -1,5 +1,5 @@
 # -2-order-ecuation-solver-with-imaginaries-included-
-Purpuse: 
+Purpose: 
 
 * This program is made to solve ecuations of second order compiled in cmd with gcc.
 
